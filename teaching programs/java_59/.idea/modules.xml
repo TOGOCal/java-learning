@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/encodeAndDecode/encodeAndDecode.iml" filepath="$PROJECT_DIR$/encodeAndDecode/encodeAndDecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioStreamTest/ioStreamTest.iml" filepath="$PROJECT_DIR$/ioStreamTest/ioStreamTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_59.iml" filepath="$PROJECT_DIR$/java_59.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testSort/testSort.iml" filepath="$PROJECT_DIR$/testSort/testSort.iml" />
+    </modules>
+  </component>
+</project>
