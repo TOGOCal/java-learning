@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buffer/Buffer.iml" filepath="$PROJECT_DIR$/Buffer/Buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectIOStream/ObjectIOStream.iml" filepath="$PROJECT_DIR$/ObjectIOStream/ObjectIOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamTypeChange/StreamTypeChange.iml" filepath="$PROJECT_DIR$/StreamTypeChange/StreamTypeChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zip/Zip.iml" filepath="$PROJECT_DIR$/Zip/Zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_60.iml" filepath="$PROJECT_DIR$/.idea/java_60.iml" />
+      <module fileurl="file://$PROJECT_DIR$/print/print.iml" filepath="$PROJECT_DIR$/print/print.iml" />
+    </modules>
+  </component>
+</project>
