@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BS/BS.iml" filepath="$PROJECT_DIR$/BS/BS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupChats/GroupChats.iml" filepath="$PROJECT_DIR$/GroupChats/GroupChats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadedTCP/MultiThreadedTCP.iml" filepath="$PROJECT_DIR$/MultiThreadedTCP/MultiThreadedTCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCP-tes/TCP-tes.iml" filepath="$PROJECT_DIR$/TCP-tes/TCP-tes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDP-test/UDP-test.iml" filepath="$PROJECT_DIR$/UDP-test/UDP-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebCoding.iml" filepath="$PROJECT_DIR$/WebCoding.iml" />
+    </modules>
+  </component>
+</project>
